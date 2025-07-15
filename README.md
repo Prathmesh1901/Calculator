@@ -5,6 +5,12 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+??????? how to start
+just download code in .zip
+then unzip it
+open it and go to calculator>src>runcalculator
+run calculator will run the Program
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
